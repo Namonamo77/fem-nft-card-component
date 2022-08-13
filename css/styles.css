@@ -125,13 +125,6 @@ footer a {
     color: var(--light);
     text-decoration: none;
 }
-/* .attribution {
-    font-size: 11px;
-    text-align: center;
-  }
-  .attribution a {
-    color: var(--light);
-  } */
 
 .image-overlay {
     position: relative;
